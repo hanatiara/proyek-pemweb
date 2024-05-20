@@ -3,4 +3,4 @@
 
 ## How To Run :
 
-In terminal : ```sh php artisan serve```
+In terminal : ```php artisan serve```
